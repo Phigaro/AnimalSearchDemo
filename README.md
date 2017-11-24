@@ -32,5 +32,6 @@
 - thumbContent 라는 피쳐를 생성.
 - title, desc, thubContent 사용
 
-
-![Image](./output.jpg)
+### OUTPUT (KIBANA)
+- ![Image](./output.jpg)
+- 실제 검색 제공 웹 사이트는 제작중
